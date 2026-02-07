@@ -14,8 +14,12 @@ Frameworks: React, Node.js, Django
 ```
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsrathour&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsrathour&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nsrathour&theme=tokyonight)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsrathour&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nsrathour&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nsrathour&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;DevOps+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
