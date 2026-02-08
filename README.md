@@ -14,7 +14,6 @@ Frameworks: React, Node.js, Django
 ```
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsrathour&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nsrathour&theme=tokyonight)
