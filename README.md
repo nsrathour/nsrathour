@@ -51,6 +51,40 @@
 
 ---
 
+### 🚀 Featured Project
+
+<p align="center">
+  <a href="https://quick-ai-eight-nu.vercel.app/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216657053-7c7e6e9c-0b5f-4d89-a5b6-4c9bb8a6a9b4.gif" width="80%" />
+  </a>
+</p>
+
+<h3 align="center">🤖 AI SaaS Platform</h3>
+
+<p align="center">
+  A production-ready AI SaaS application with modern UI, scalable backend,
+  and cloud deployment. Built to deliver fast, reliable, and user-friendly AI services.
+</p>
+
+<p align="center">
+  <b>Tech Stack:</b> React, Node.js, Express, AI APIs, Cloud Deployment
+</p>
+
+<p align="center">
+  <a href="https://quick-ai-eight-nu.vercel.app/" target="_blank">
+    🔴 Live Demo
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/nsrathour/AI-SaaS" target="_blank">
+    🧠 GitHub Repository
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216657069-9db2b7c6-4a8f-4e8a-bbc4-2f9e1e1c7e1d.gif" width="100%"/>
+
+---
+
+
 ### 🔗 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/navditya-singh-rathour-7268a7288" target="_blank">
