@@ -8,9 +8,14 @@
 
 ### 🛠️ Tech Stack
 ```
-Languages: JavaScript, Java, C++
-Tools: Git, Docker, VS Code
-Frameworks: React, Node.js, Django
+Programming: java, JavaScript, C++, Python (Elementary).
+CS Fundamentals: DSA, OOPs, DBMS, CN.
+Web Development: React.js, Node.js, Express.js, REST APIs.
+Cloud & Deployment: AWS, Vercel.
+Databases: SQL, NoSQL, MongoDB, PostgreSQL.
+DevOps: CI/CD pipeline. 
+Tools & Technologies: GitHub, Postman, VS Code.
+
 ```
 
 ### 📊 GitHub Stats
