@@ -79,33 +79,6 @@ reach_me: rathournavdiyasingh@gmail.com
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nsrathour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsrathour&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nsrathour&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nsrathour&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-<details>
-<summary>🏆 <b>GitHub Trophies</b> (click to expand)</summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nsrathour&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-</details>
-
-<br/>
-
 ## 🚀 Featured Project
 
 <div align="center">
@@ -142,17 +115,6 @@ A production-ready AI SaaS application with modern UI, scalable backend, and clo
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/nsrathour/nsrathour/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — set up the companion GitHub Action below to activate it ⬇️</sub>
-</details>
-</div>
-
-<br/>
-
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -172,10 +134,6 @@ A production-ready AI SaaS application with modern UI, scalable backend, and clo
 <br/>
 
 <div align="center">
-
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <sub>⭐ *Always building, always learning.*</sub>
 
